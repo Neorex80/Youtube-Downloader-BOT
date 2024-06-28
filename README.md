@@ -1,6 +1,6 @@
 ---
 
-# [Kinetic Download] Setup Guide
+# [Youtube Downloader] Setup Guide
 
 ## Description
 [Kinetic Movies] is a Telegram bot that allows users to download video/audio files and provides direct movie download links. This bot uses the `pytube` library to facilitate downloads from video-sharing websites.
